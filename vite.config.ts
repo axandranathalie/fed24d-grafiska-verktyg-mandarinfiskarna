@@ -5,7 +5,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/fed24d-grafiska-verktyg-mandarinfiskarna/",
+  base: "/SkyVoyage-webshop/",
   plugins: [
     vue(),
   ],
